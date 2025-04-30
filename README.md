@@ -1,2 +1,2 @@
 # hackattic-solutions
-Solutions to hackattic challenges
+Solutions to [hackattic](https://hackattic.com/challenges) challenges
